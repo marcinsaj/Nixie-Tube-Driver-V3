@@ -1,5 +1,17 @@
 # Nixie Tube Driver V3
 
+Third version of the Nixie Tube Driver project . This time the driver has 40 outputs so you can control four nixie tubes. The driver can also be used for multi-segment tubes e.g. B-7971, B-8971 etc.
+
+## Parameters and features.
+
+- 40 outputs for connecting the nixie tube cathodes (K1-K22)
+- 300V off-state maximum output voltage
+- Compatible with all 5V / 3.3V designs
+- Easy to use with Arduino or Raspberry Pi etc. (only 3 SPI control lines)
+- The drivers can be connected in series
+*Please note that nixie tubes require additional 170V power supply.
+
+
 **<a href="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/raw/main/datasheet/Schematic-Nixie-Tubes-Controller-40.pdf">Download Nixie Tube Driver V3 Schematic</a>**
 
 
