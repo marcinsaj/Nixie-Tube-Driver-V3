@@ -2,7 +2,7 @@
 
 Third version of the Nixie Tube Driver project . This time the driver has 40 outputs so you can control four nixie tubes. The driver can also be used for multi-segment tubes e.g. B-7971, B-8971 etc.
 
-## Parameters and features.
+## Parameters and features:
 
 - 40 outputs for connecting the nixie tube cathodes (K1-K22)
 - 300V off-state maximum output voltage
