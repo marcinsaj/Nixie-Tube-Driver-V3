@@ -4,7 +4,7 @@ Third version of the Nixie Tube Driver project . This time the driver has 40 out
 
 ## Parameters and features:
 
-- 40 outputs for connecting the nixie tube cathodes (K1-K22)
+- 40 outputs for connecting the nixie tubes cathodes (K1-K40)
 - 300V off-state maximum output voltage
 - Compatible with all 5V / 3.3V designs
 - Easy to use with Arduino or Raspberry Pi etc. (only 3 SPI control lines)
