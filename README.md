@@ -12,6 +12,7 @@ Third version of the <a href="https://nixietester.com/project/nixie-tube-driver-
 *Please note that nixie tubes require additional 170V power supply.
 
 **<a href="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/raw/main/datasheet/Example-Diagram-4-Nixie-Tubes-Controller-40-Outputs.pdf">Download Example Connection 4 Nixie Tubes Diagram</a>**
+
 **<a href="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/raw/main/datasheet/Schematic-Nixie-Tubes-Controller-40.pdf">Download Nixie Tube Driver V3 Schematic</a>**
 
 
