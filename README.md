@@ -1,5 +1,7 @@
 # Nixie Tube Driver V3
 
+**<a href="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/raw/main/datasheet/Schematic-Nixie-Tubes-Controller-40.pdf">Download Nixie Tube Driver V3 Schematic</a>**
+
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/blob/main/extras/nixie-tubes-controller-40-outputs-project-cover.jpg"></p>
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/blob/main/extras/nixie-tubes-controller-40-outputs-project.jpg"></p>
