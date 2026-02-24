@@ -13,7 +13,7 @@ Third version of the <a href="https://nixietester.com/project/nixie-tube-driver-
 
 **<a href="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/raw/main/datasheet/Schematic-Nixie-Tubes-Controller-40.pdf">Download Nixie Tube Driver V3 Schematic</a>**
 
-# Nixie-Tube-Driver-V3
+# Sample Code & Diagrams
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/blob/main/example/Nixie-Tube-Driver-V3-Example-1.ino">How to Control 1 Nixie Tube - Code Example</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/raw/main/datasheet/Example-Diagram-1-Nixie-Tube-Controller-40-Outputs.pdf">How to Control 1 Nixie Tube - Schematic</a>
 * <a target="_blank" href="https://github.com/marcinsaj/Nixie-Tube-Driver-V3/blob/main/example/Nixie-Tube-Driver-V3-Example-2.ino">How to Control 2 Nixie Tubes - Code Example</a>
